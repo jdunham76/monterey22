@@ -1,0 +1,9 @@
+# monterey22
+The Microsoft Excel workbook JD_Insola_La2010_Insolatio_to_25_ma_Github.xlsx is Program Insola reformatted on an Excel spreadsheet. It is based on the work of a team lead by Jacques Laskar (see these papers: DOI: 10.1051/0004-6361:20041335, and DOI: 10.1051/0004-6361/201116836).
+Open the Excel file and go to Worksheet Tab Insol_Calc_by_Long_-30000. This sheet calculates mean daily insolation in watts/square-meter received at the top of the atmosphere. The default location is set at 65 degreen north latitude, and the time of the year is set at the northern summer solstice. 
+Go to the Explanations Worksheet Tab, and read the descriptions of the parameters used to meke the insolation calculation. You can change the latitude location and the season of the year by adjusting cells as described on the Explanations sheet.
+You can send me a note at johndunham76@gmail.com if you have any questions or problems while using the workbook.
+I have included a license file; the purpose of this file is to prevent unscrupulous users from claiming ownership to restrict use of this original Excel composition. The license states that you are free to use the file for any purpose, as long as you do not patent any files to restrict their use.
+Download Instructions: 
+Step 1. Click on the Excel File name. A box will appear with a download button on the center-right side of the screen, click the button to download the file. The excel file should open on your computer. Step 2. Click on the Code Icon on the Github page and this gets you back to the list of other files in the repository, which include a pdf file core photos of the Leroy 51-18 core, and a pdf copy of the presentation I gave at the CGS Monterey Meeting, November 2002.
+I hope these files will help you with your research efforts.
