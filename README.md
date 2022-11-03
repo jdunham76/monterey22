@@ -1,5 +1,5 @@
 # monterey22
-The Microsoft Excel workbook JD_Insola_La2010_Insolatio_to_25_ma_Github.xlsx is Program Insola reformatted on an Excel spreadsheet. It is based on the work of a team lead by Jacques Laskar (see these papers: DOI: 10.1051/0004-6361:20041335, and DOI: 10.1051/0004-6361/201116836).
+The Microsoft Excel workbook JD_Insola_La2010_Insolatio_to_25_ma_Github.xlsx is Program Insola reformatted on an Excel spreadsheet. It is based on the work of a team lead by Jacques Laskar (see these papers: DOI: 10.1051/0004-6361:20041335, and DOI: 10.1051/0004-6361/201116836). If you have any problems retrieving the file from Github, or running the program in Excel, send a note to johndunham76@gmail.com and I will help.
 Open the Excel file and go to Worksheet Tab Insol_Calc_by_Long_-30000. This sheet calculates mean daily insolation in watts/square-meter received at the top of the atmosphere. The default location is set at 65 degreen north latitude, and the time of the year is set at the northern summer solstice. 
 Go to the Explanations Worksheet Tab, and read the descriptions of the parameters used to meke the insolation calculation. You can change the latitude location and the season of the year by adjusting cells as described on the Explanations sheet.
 You can send me a note at johndunham76@gmail.com if you have any questions or problems while using the workbook.
